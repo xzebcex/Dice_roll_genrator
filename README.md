@@ -1,6 +1,6 @@
 # **Dice Roll Generator**
 
-### Table of Contents: 
+#### Table of Contents: 
 - [Description](#description)
 - [Installing and Running](#installing_and_running)
 - [How to Use](#how_to_use)
